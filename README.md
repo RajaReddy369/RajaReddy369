@@ -34,8 +34,8 @@ Git • GitHub • Docker • Linux
 
 ## 📚 Problem Solving
 
-- LeetCode: 
-- HackerRank: YOUR_HACKERRANK_LINK
+- LeetCode: https://leetcode.com/u/ChaitanyaRajaReddy/
+
 
 ## 📌 Featured Projects
 
