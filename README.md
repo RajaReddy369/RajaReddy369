@@ -16,7 +16,7 @@ learning, and generative AI.
 ## 🛠️ Technologies
 
 ### Programming
-Python • Java • C/C++ • JavaScript • SQL
+Python • Java •  JavaScript • SQL
 
 ### Backend
 FastAPI • REST APIs • PostgreSQL • SQLAlchemy
@@ -34,7 +34,7 @@ Git • GitHub • Docker • Linux
 
 ## 📚 Problem Solving
 
-- LeetCode: YOUR_LEETCODE_LINK
+- LeetCode: 
 - HackerRank: YOUR_HACKERRANK_LINK
 
 ## 📌 Featured Projects
