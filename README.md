@@ -1,4 +1,4 @@
-# Hi, I'm G Chaitanya RAja Reddy 👋
+# Hi, I'm G Chaitanya Raja Reddy 👋
 
 ### Computer Science Undergraduate | Software Engineering | AI/ML
 
